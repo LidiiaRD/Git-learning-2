@@ -15,4 +15,35 @@
                     <h2 class="page-subtitle">2009 Remaster</h2>
                 </div>
         </header>         
+<section class="about">
+            <div class="text">
+                <p>I want to live<br>               
+                   I want to give<br>
+                   I've been a miner<br>
+                   For a heart of gold<br>
+                   It's these expressions<br>
+                   I never give<br>
+                   That keep me searching<br>
+                   For a heart of gold<br>
+                   And I'm getting old<br>
+                   Keep me searching<br>
+                   For a heart of gold<br>
+                   And I'm getting old</p>
+            </div>
+            <div class="text">
+                <p>I've been to Hollywood<br>
+                   I've been to Redwood<br>
+                   I crossed the ocean<br>
+                   For a heart of gold<br>
+                   I've been in my mind<br>
+                   It's such a fine line<br>
+                   That keeps me searching<br>
+                   For a heart of gold<br>
+                   And I'm getting old<br>
+                   Keeps me searching<br>
+                   For a heart of gold<br>
+                   And I'm getting old<br>
+                </p>
+            </div>
+    </section> 
 </body>     
