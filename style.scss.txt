@@ -1,0 +1,19 @@
+/* Global */
+
+$font-text: 'Mulish:ital', sans-serif;
+$font-header: 'Mulish', sans-serif;
+
+.page-title  {
+    text-align: center;
+   font-size: 30px;
+    
+}
+.page-subtitle {
+    text-align: center;
+  
+}    
+ .text {
+ display: block;
+text-align: center;
+font-size: 20px;
+} 
