@@ -12,7 +12,7 @@
 	<header class="splash">
                 <div class="container">
                     <h1 class="page-title">HEART OF GOLD</h1>
-                    <h2 class="page-subtitle">2009 Remaster</h2>
+                    <h2 class="page-subtitle">2009 Remaster(Neil Yong)</h2>
                 </div>
         </header>         
 <section class="about">
