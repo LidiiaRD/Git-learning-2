@@ -44,6 +44,15 @@
                    For a heart of gold<br>
                    And I'm getting old<br>
                 </p>
-            </div>
+                <p>Keep me searching<br>
+			 For a heart of gold<br>
+			 You keep me searching<br>
+			 And I'm growing old<br>
+			 Keep me searching<br>
+			 For a heart of gold<br>
+			 I've been a miner<br>
+			 For a heart of gold<br>
+		    </p>	
+		</div>
     </section> 
 </body>     
